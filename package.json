@@ -1,0 +1,14 @@
+{
+  "name": "playwright-js",
+  "version": "1.0.0",
+  "description": "Testes iniciais para migração de framework de automação",
+  "scripts": {},
+  "keywords": [],
+  "author": "Deborah Feitosa",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  }
+}
