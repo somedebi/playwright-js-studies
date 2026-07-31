@@ -1,5 +1,5 @@
 import { test } from '@playwright/test';
-import { TextBoxPage } from '../pages/TextBoxPage';
+import { TextBoxPage } from '../../pages/TextBoxPage';
 
 test('User can fill and submit the Text Box form', async ({ page }) => {
 
